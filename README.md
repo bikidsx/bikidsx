@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bikidsx
 - 👀 I’m interested in Product Designing, Machine Learning, Codes, Music
-- 🌱 I’m currently learning Python, React JS, Next JS
+- 🌱 I’m currently learning Python
 - 📫 Reach me @_bikids
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikidsx)](https://github.com/bikidsx/github-readme-stats)
