@@ -214,11 +214,6 @@ graph TD
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://bikidsx.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@bikidsx.dev)
 
-### **Open for:**
-- 🤝 **Collaboration** on AI/ML projects
-- 💼 **Opportunities** in AI Research or ML Engineering
-- 🎓 **Mentorship** in career transitions
-- 💡 **Innovation Projects** combining design and AI
 
 </div>
 
