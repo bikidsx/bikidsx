@@ -25,7 +25,7 @@ Learning and building with:
 
 **MLOps:** MLflow • Streamlit
 
-## 📊 Projects
+## Projects
 
 - **[[Lebu](https://github.com/bikidsx/lebu)]** - A beautiful terminal connection manager for SSH, databases, and SFTP.
 - **[[Dazy](https://github.com/bikidsx/dazy)]** - A lightweight terminal tool for Docker that goes beyond monitoring.
@@ -33,12 +33,12 @@ Learning and building with:
 
 
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bikidsx&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bikidsx&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bikidsx&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🌍 Connect
+## Connect
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/_bikids)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bikidsx)
