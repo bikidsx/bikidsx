@@ -3,10 +3,11 @@
 **Product Designer → AI Researcher**  
 Transitioning from crafting interfaces to building intelligent systems.
 
-## 🚀 Current Focus
+## Current Focus
 
 Learning and building with:
-- **Python** - Core programming
+- **Typescript** - Core programming
+- **Python** - For AI Workloads
 - **Machine Learning** - Building intelligent systems
 - **MLOps** - Production AI pipelines
 - **LLMs** - Large language models and applications
@@ -27,7 +28,9 @@ Learning and building with:
 ## 📊 Projects
 
 - **[[Lebu](https://github.com/bikidsx/lebu)]** - A beautiful terminal connection manager for SSH, databases, and SFTP.
-- **[[Dazy](https://github.com/bikidsx/dazy)]** - A lightweight terminal tool for Docker that goes beyond monitoring. 
+- **[[Dazy](https://github.com/bikidsx/dazy)]** - A lightweight terminal tool for Docker that goes beyond monitoring.
+- **[[Webu](https://github.com/bikidsx/webu)]** - The Open Source Lovable Alternative.
+
 
 
 ## 📊 GitHub Stats:
