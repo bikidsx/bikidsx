@@ -1,50 +1,32 @@
-# Hi, I'm @bikidsx 👋
+# @bikidsx
 
-**Product Designer → AI Researcher**  
-Transitioning from crafting interfaces to building intelligent systems.
+**AI Infrastructure Engineer**
 
-## Current Focus
+Building production-grade memory systems for AI applications. Previously product design, now focused on the infrastructure layer that makes AI agents actually useful.
 
-Learning and building with:
-- **Typescript** - Core programming
-- **Python** - For AI Workloads
-- **Machine Learning** - Building intelligent systems
-- **MLOps** - Production AI pipelines
-- **LLMs** - Large language models and applications
-- **Data Science** - Analytics and insights
+## Focus
 
-## 🛠️ Tech Stack
+Solving the hard problems in AI memory: persistence, retrieval, and context management at scale. Currently building Cerebro — pluggable memory infrastructure for AI systems.
 
-**Languages:** Python • JavaScript • TypeScript • SQL
+## Technical Background
 
-**AI/ML:** TensorFlow • PyTorch • Scikit-learn • Hugging Face
+**Core:** Python, TypeScript, SQL
 
-**Data:** Pandas • NumPy • Jupyter • Matplotlib
+**AI/ML:** PyTorch, TensorFlow, Hugging Face, LangChain
 
-**Tools:** Docker • AWS • Git • VS Code • Figma
+**Infrastructure:** PostgreSQL, Redis, Qdrant, Pinecone, Docker, AWS
 
-**MLOps:** MLflow • Streamlit
+**Data:** Pandas, NumPy, Jupyter
 
 ## Projects
 
-- **[[Lebu](https://github.com/bikidsx/lebu)]** - A beautiful terminal connection manager for SSH, databases, and SFTP.
-- **[[Dazy](https://github.com/bikidsx/dazy)]** - A lightweight terminal tool for Docker that goes beyond monitoring.
-- **[[Webu](https://github.com/bikidsx/webu)]** - The Open Source Lovable Alternative.
-- **[[Cerebro](https://github.com/bikidsx/cerebro-memory)]** - Pluggable Memory infrastructure for AI Agents.
-
-
-
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bikidsx&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bikidsx&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bikidsx&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- **[Cerebro](https://github.com/bikidsx/cerebro-memory)** — Memory infrastructure for AI agents. Pluggable storage, vectors, and embeddings.
+- **[Webu](https://github.com/bikidsx/webu)** — Open source alternative to Lovable.
+- **[Dazy](https://github.com/bikidsx/dazy)** — Terminal tool for Docker operations.
+- **[Lebu](https://github.com/bikidsx/lebu)** — Terminal connection manager for SSH, databases, SFTP.
 
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/_bikids)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bikidsx)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=web&logoColor=white)](https://bikidsx.dev)
-
----
-
-*Building the future where design thinking meets artificial intelligence.*
