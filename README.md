@@ -30,6 +30,7 @@ Learning and building with:
 - **[[Lebu](https://github.com/bikidsx/lebu)]** - A beautiful terminal connection manager for SSH, databases, and SFTP.
 - **[[Dazy](https://github.com/bikidsx/dazy)]** - A lightweight terminal tool for Docker that goes beyond monitoring.
 - **[[Webu](https://github.com/bikidsx/webu)]** - The Open Source Lovable Alternative.
+- **[[Cerebro](https://github.com/bikidsx/cerebro-memory)]** - Pluggable Memory infrastructure for AI Agents.
 
 
 
