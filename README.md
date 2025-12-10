@@ -20,7 +20,6 @@ Solving the hard problems in AI memory: persistence, retrieval, and context mana
 
 ## Projects
 
-- **[Remina](https://github.com/bikidsx/remina)** — Memory infrastructure for AI agents. Plugable storage, vectors, and embeddings.
 - **[Webu](https://github.com/bikidsx/webu)** — Open source alternative to Lovable.
 - **[Dazy](https://github.com/bikidsx/dazy)** — Terminal tool for Docker operations.
 - **[Lebu](https://github.com/bikidsx/lebu)** — Terminal connection manager for SSH, databases, SFTP.
