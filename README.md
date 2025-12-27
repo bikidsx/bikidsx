@@ -19,6 +19,7 @@ Solving the hard problems in AI memory: persistence, retrieval, and context mana
 **Data:** Pandas, NumPy, Jupyter
 
 ## Projects
+- **[Wush](https://github.com/bikidsx/wush/)** — AI Powered Git Workflow.
 - **[Kontext](https://github.com/bikidsx/kontext/)** — Ultra-fast contextual memory for AI agents.
 - **[Webu](https://github.com/bikidsx/webu)** — Open source alternative to Lovable.
 - **[Dazy](https://github.com/bikidsx/dazy)** — Terminal tool for Docker operations.
