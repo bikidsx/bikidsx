@@ -6,7 +6,7 @@ Building production-grade memory systems for AI applications. Previously product
 
 ## Focus
 
-Solving the hard problems in AI memory: persistence, retrieval, and context management at scale. Currently building CongitiveDB — pluggable memory infrastructure for AI systems.
+Solving the hard problems in AI memory: persistence, retrieval, and context management at scale. Currently building CognitiveDB — pluggable memory infrastructure for AI systems.
 
 ## Technical Background
 
