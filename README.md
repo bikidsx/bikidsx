@@ -19,6 +19,7 @@ Solving the hard problems in AI memory: persistence, retrieval, and context mana
 **Data:** Pandas, NumPy, Jupyter
 
 ## Projects
+- **[Zeno](https://github.com/bikidsx/zeno/)** — Describe a flow; AI drives the browser and writes tests.
 - **[Wush](https://github.com/bikidsx/wush/)** — AI Powered Git Workflow.
 - **[Kontext](https://github.com/bikidsx/kontext/)** — Ultra-fast contextual memory for AI agents.
 - **[Webu](https://github.com/bikidsx/webu)** — Open source alternative to Lovable.
